@@ -1,7 +1,7 @@
 {
   "name": "justo-plugin-chrome",
-  "version": "0.1.0",
-  "description": "Tasks for Google Chrome.",
+  "version": "0.1.1",
+  "description": "Plugin for Google Chrome.",
   "homepage": "http://www.justojs.org",
   "author": {
     "name": "Justo Labs",
@@ -41,8 +41,8 @@
     "justo": "*",
     "justo-assert": "*",
     "justo-plugin-babel": "*",
+    "justo-plugin-eslint": "*",
     "justo-plugin-fs": "*",
-    "justo-plugin-jshint": "*",
     "justo-plugin-npm": "*"
   },
   "main": "index.js",
